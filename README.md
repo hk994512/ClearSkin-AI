@@ -122,7 +122,7 @@ A pre-built release APK is available under [Releases](../../releases) for direct
 
 ## 👥 Team
 
-This project was developed as a Final Year Project by a team of [N] students:
+This project was developed as a Final Year Project by a team of 2 students:
 Muhammad Ameer Hamza — Flutter App Developer(Backend: FastApi)
 
 
